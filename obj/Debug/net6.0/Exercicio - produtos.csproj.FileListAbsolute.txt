@@ -1,0 +1,15 @@
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\bin\Debug\net6.0\Exercicio - produtos.exe
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\bin\Debug\net6.0\Exercicio - produtos.deps.json
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\bin\Debug\net6.0\Exercicio - produtos.runtimeconfig.json
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\bin\Debug\net6.0\Exercicio - produtos.dll
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\bin\Debug\net6.0\Exercicio - produtos.pdb
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.csproj.AssemblyReference.cache
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.AssemblyInfoInputs.cache
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.AssemblyInfo.cs
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.dll
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\refint\Exercicio - produtos.dll
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.pdb
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\Exercicio - produtos.genruntimeconfig.cache
+C:\ProjetosC#\udemy - pt2\Exercicio - produtos\obj\Debug\net6.0\ref\Exercicio - produtos.dll
