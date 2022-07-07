@@ -5,17 +5,20 @@ namespace Exercicio___produtos
     {
         static void Main()
         {
-            Produto prod = new Produto();
-
+        
             Console.WriteLine("Entre com os dados do produto: ");
 
             Console.Write("Name : ");
-            prod.Name = Console.ReadLine();
+            string Name = Console.ReadLine();
             Console.Write("Price : ");
-            prod.Price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double Price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Quantidade em estoque : ");
-            prod.Quantity = int.Parse(Console.ReadLine());
+            int Quantity = int.Parse(Console.ReadLine());
             
+            Produto prod = new Produto(Name, Price, Quantity);
+            
+            prod.Name = "TV 4k";
+        
             System.Console.WriteLine();
 
             System.Console.WriteLine("Dados do produto :" + prod);

@@ -3,15 +3,31 @@ namespace Exercicio___produtos
 {
     public class Produto
     {
-        public string Name;
-        public double Price;
-        public int Quantity;
+        private string _name;
+        public double Price{get; private set;}
+        public int Quantity{get; private set;}
         
-        private double total;
+        public Produto(){}
+        public Produto(string name, double price, int quantity)
+        {
+            _name = name;
+            this.Price = price;
+            this.Quantity = quantity;
+        }
+
+        public string Name{
+            get{ return _name;}
+            set{
+                if(value != null && value.Length > 1)
+                {
+                    _name = value;
+                }
+            }
+        }
 
         public double ValorTotalEmEstoque()
         {
-            return total = Price * Quantity;    
+            return Price * Quantity;    
         }   
         public void AdicionarProdutos(int quantity)
         {            
@@ -24,7 +40,7 @@ namespace Exercicio___produtos
 
         public override string ToString()
         {
-            return Name
+            return _name
             + ", $ "
             + Price.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
